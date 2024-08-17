@@ -26,8 +26,8 @@ Ensure you have the following software installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/KaivanKeren/face-attendance.git
+   cd face-attendance
    ```
 
 2. **Install Dependencies**
