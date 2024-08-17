@@ -101,8 +101,4 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 
 ## Contact
 
-For any questions or feedback, you can reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Replace placeholders like `yourusername`, `your-repository`, and `your-email@example.com` with your actual information. This `README.md` provides a comprehensive overview of the project, including setup instructions, code functionality, and troubleshooting tips.
+For any questions or feedback, you can reach out to me at [x.iml.7122@gmail.com](mailto:x.iml.7122@gmail.com).
